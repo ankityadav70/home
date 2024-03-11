@@ -1,0 +1,43 @@
+.video video{
+    width: 100%;
+    height: auto;
+}
+.about p{
+    margin: 0% 25%;
+}
+.about .container .row .col img{
+    width: 100%;
+}
+div.scroll-container {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+  }
+  
+  div.scroll-container img {
+    padding: 10px;
+  }
+  .services p, .video-text p, .frame p{
+    margin: 0% 25%;
+  }
+  .video-text p{
+    margin: 0% 20%;
+  }
+  .video-text{
+    margin-top: 16%;
+    position: absolute;
+  }
+  .navbar-brand{
+    width: 4%;
+  }
+  .logo{
+    width: 100%;
+  }
+  
+  header .navbar .navbar-collapse ul{
+    margin: 0% 30%;
+  }
+
+  .form{
+    background-image: url('form-bg.jpg');
+  }
